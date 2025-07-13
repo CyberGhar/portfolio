@@ -52,7 +52,7 @@ const Navigation = () => {
           {/* Logo on the right side */}
           <div className="flex items-center ml-auto">
             <img
-              src="/logo.jpg"
+              src="../logo.jpg"
               alt="CyberGhar Logo"
               className="h-10 w-auto rounded-full shadow-md"
               style={{ background: '#fff' }}
