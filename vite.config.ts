@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: '/cyberghar-student-hub-portal-main/',
+  base: '/portfolio/', // Changed back to /portfolio/ to match the deployment URL
   server: {
     host: "::",
     port: 8080,
