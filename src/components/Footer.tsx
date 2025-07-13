@@ -9,7 +9,7 @@ const Footer = () => {
           {/* Logo in the footer */}
           <div className="flex flex-col items-center md:items-start">
             <img
-              src="/WhatsApp Image 2025-07-10 at 13.35.01_7e375db3.jpg"
+              src="/logo.jpg"
               alt="CyberGhar Logo"
               className="h-14 w-auto mb-4 rounded-full shadow-md"
               style={{ background: '#fff' }}
